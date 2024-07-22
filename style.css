@@ -8,6 +8,17 @@ body{
     margin-right:100px;
     background-color: var(--primary-color);
 }
+
+.img-moon{
+    width: 15px;
+    height: 15px;
+    transform: translate(968px,40px);
+}
+.man-logo{
+    width: 15px;
+    height: 15px;
+    transform: translateY(-30px); 
+}
 .list-non-bullet {
     list-style: none;
 }
@@ -40,10 +51,13 @@ body{
 }
 .nav-brand{
     color: black;
+    margin-left: 20px;
+    transform: translateY(-50px);
 }
 .nav-bar{
     text-align: right;
     color:black;
+    transform: translateY(20px);
 }
 
 .content{
@@ -73,7 +87,7 @@ span{
     background-color: rgb(225, 225, 225);
 }
 .d2{
-    color: #000000;
+    color: #fbfcfd;
     padding: 10px 25px;
     background: transparent;
     border: 1px solid #fff;
