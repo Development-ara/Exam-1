@@ -176,7 +176,7 @@ img{
         position: absolute;
         top: 50%;
         left: 8%;
-        transform: translate(-30px,-150px);
+        transform: translate(0px,-150px);
         z-index: 2;
     }
     h1{
@@ -228,13 +228,13 @@ img{
     }
     img{
         height: 200px;
-        width: 300px;
-        transform: translate(-80px,150px);
+        width: 450px;
+        transform: translate(-80px,180px);
         border: hidden;
     }
     
     .d3{
-        transform: translateY(120px);
+        transform: translateY(150px);
         padding: 2rem;
         overflow: hidden;
         font-size: 10px;
