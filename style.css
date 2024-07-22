@@ -122,7 +122,7 @@ img{
     .img-moon{
         width: 15px;
         height: 15px;
-        transform: translate(140px,-7px);
+        transform: translate(160px,-7px);
     }
     .man-logo{
         width: 15px;
@@ -234,7 +234,7 @@ img{
     }
     
     .d3{
-        transform: translateY(150px);
+        transform: translateY(180px);
         padding: 2rem;
         overflow: hidden;
         font-size: 10px;
